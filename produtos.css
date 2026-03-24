@@ -55,6 +55,7 @@ nav a:hover {
     display: inline-block;
     text-align: center;
     width: 30%;
+    vertical-align: center;
     margin: o 1.5%;
     padding: 30px 20px;
     box-sizing: border-box;
@@ -72,5 +73,19 @@ nav a:hover {
 }
 
 produtos-preço{
-    
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+footer{
+    text-aling: center;
+    background: url("bg.jpg");
+    padding: 40px 0;
+}
+
+.copyright{
+    color: #fff;
+    font-size: 13px;
+    margin: 20px 0 0;
 }
